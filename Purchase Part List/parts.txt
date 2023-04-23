@@ -1,0 +1,41 @@
+For 3D Printing, it is recommended that the parts be made of PETG 
+https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B08BC52P3Y/ref=sr_1_3?crid=15S1EHCHMQUBL&keywords=petg&qid=1679949440&refinements=p_89%3AHATCHBOX%7CINLAND%7COVERTURE%7CPolymaker%2Cp_n_feature_five_browse-bin%3A11539349011&rnid=11539341011&s=industrial&sprefix=petg%2Caps%2C127&sr=1-3&th=1
+
+Additionally, if the user would like a sensor cover, the material should be printed with TPU
+https://www.amazon.com/Overture-Filament-Flexible-Consumables-Dimensional/dp/B08BC1DX4S/ref=sr_1_1_sspa?crid=3PAXCFZ7VN3RP&keywords=tpu&qid=1682209770&s=industrial&sprefix=tpu%2Cindustrial%2C107&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQUdPMjNMNDdUUERFJmVuY3J5cHRlZElkPUEwODc4NTUzQ0xJV01CUlpWSFlQJmVuY3J5cHRlZEFkSWQ9QTA2MjM4ODBQU1hJQlJIWkg4SEcmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1
+
+The force sensor used is a FSR01CE 
+https://www.digikey.com/en/products/detail/ohmite/FSR01CE/9178296
+
+The servo motors for actuating the fingers are 180 deg rotation MG 90 9g Servo Motors
+https://www.amazon.com/MG90S-Servo-Motor-Helicopter-Arduino/dp/B07L6FZVT1/ref=sr_1_5?keywords=mg90%2Bservo&qid=1675722426&sr=8-5&th=1
+
+To assist in actuating the fingers, 14 180 deg torsion springs are required for each joint 
+https://www.mcmaster.com/9271K94/
+
+In tandem, fishing line was strung through all the finger segements, the researachers used spider wire for its high durability and lack of deformation 
+https://www.amazon.com/Spiderwire-SCS15G-125-Braided-Stealth-Superline/dp/B01IDEO2ZS/ref=sr_1_2?crid=3RMO4AQ5Y5FQE&keywords=spider%2Bwire&qid=1679948565&sprefix=spider%2Bwire%2Caps%2C90&sr=8-2&th=1
+
+The servo motors in the wrist are MG 996R (~$20 for 4)
+https://www.amazon.com/4-Pack-MG996R-Torque-Digital-Helicopter/dp/B07MFK266B/ref=pd_day0fbt_vft_none_img_sccl_2/138-9862324-0749314?pd_rd_w=yg75R&content-id=amzn1.sym.bea02ed0-a54b-499f-9a00-48089e5cd317&pf_rd_p=bea02ed0-a54b-499f-9a00-48089e5cd317&pf_rd_r=EW3F3HZAX9Z03DJMEYDA&pd_rd_wg=ijR2b&pd_rd_r=ba14d71a-f378-49a8-84c8-24cb70e4fd35&pd_rd_i=B07MFK266B&psc=1
+
+Screws will also be utalized for assembly, placement of which can be found in the provided FDR Report
+https://www.mcmaster.com/90760A009/
+https://www.mcmaster.com/91251A192/
+https://www.mcmaster.com/91772A059/
+https://www.mcmaster.com/96537A145/
+https://www.mcmaster.com/91249A046/
+
+For demonstration, a larger servo, DS3235 35kg, was used as a mock elbow to move the forearm/arm assembly up and down
+https://www.amazon.com/ZOSKAY-Coreless-Digital-Stainless-arduino/dp/B07S9XZYN2/ref=sr_1_3_sspa?crid=NIJFLSBIRFLP&keywords=servo&qid=1681947393&sprefix=servo%2Caps%2C110&sr=8-3-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSzY2SEkzTDZXWDc3JmVuY3J5cHRlZElkPUEwNzMxNDA3MTZKOEJDSVQ5N0xGViZlbmNyeXB0ZWRBZElkPUEwMjA0NDQ4M0tXNFJETE02VlYxSiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
+
+
+Furthermore, the power supply was a buck coverter with an LCD display with adjustable voltage and amperage
+https://www.amazon.com/dp/B07JZ2GQJF/ref=emc_b_5_t?th=1
+
+With a 7.4V LiPo battery
+https://www.amazon.com/Blomiky-1200mAH-Battery-Charger-Quadcopter/dp/B07DB52T49/ref=sr_1_4?keywords=7.4+v+lipo&qid=1682210429&sr=8-4
+
+And miscellaneous jumper wires, a pack of which can be found in the links below
+https://www.amazon.com/Sunxeke-Breadboard-Assortment-Different-breadboard/dp/B09NCY7NP1/ref=sr_1_2_sspa?crid=2811QXTWAA7QV&keywords=jumper%2Bwire&qid=1682210497&s=industrial&sprefix=jumper%2Bwire%2Cindustrial%2C129&sr=1-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRFFMQ0IzVjk2TkJQJmVuY3J5cHRlZElkPUEwNzc2OTAxMkU5WFIxTVpCWlhQUSZlbmNyeXB0ZWRBZElkPUEwNjU4MzI5MUhSRjAzRTZTWEs1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_10?crid=2811QXTWAA7QV&keywords=jumper%2Bwire&qid=1682210551&s=industrial&sprefix=jumper%2Bwire%2Cindustrial%2C129&sr=1-10&th=1
