@@ -19,18 +19,8 @@ In this repository are Two Arms  Designed by Two Seperate Groups (denoted as KSU
 
 KSU 1 is comprised of:
 
-Julien Illo
-Sam Boselli
-Talon Hanssen
-Paige Durand
-Jonathan Perez
-
+Julien Illo, Sam Boselli, Talon Hanssen, Paige Durand, Jonathan Perez 
 
 KSU 2 is comprised of:
 
-Christopher Xu
-Randen Plattner
-Juan Ponce
-Aydan Vanmeerhaeghe
-Logan Senecal
-Vance Weber
+Christopher Xu, Randen Plattner, Juan Ponce, Aydan Vanmeerhaeghe, Logan Senecal, Vance Weber 
