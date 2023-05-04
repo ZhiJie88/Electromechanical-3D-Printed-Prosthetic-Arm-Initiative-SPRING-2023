@@ -4,7 +4,7 @@ Kansas State University Senior Design II Project, Electromechanical 3D Printed P
 
 Due to the extortionate price of mechanical prosthetic arms, Dr. B at Kansas State University has started an initiative to design, build, and protype an open source arm.
 
-The Main Deliverables For SPRING 2023 were as Follows:
+The main deliverables for SPRING 2023 were as follows:
 
 1. A complete model of the hand and forearm in SolidWorks.  
 2. A complete set of STL files for printing the hand and arm.
@@ -15,7 +15,7 @@ The Main Deliverables For SPRING 2023 were as Follows:
 
 
 
-In this repository are Two Arms  Designed by Two Seperate Groups (denoted as KSU 1 and KSU 2) that seek to Achieve these Goal
+In this repository are two arms and their respective supporting documention, designed by two seperate groups (denoted as KSU 1 and KSU 2) that seek to achieve these goal
 
 KSU 1 is comprised of:
 
