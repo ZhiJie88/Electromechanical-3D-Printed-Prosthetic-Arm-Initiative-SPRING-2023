@@ -19,7 +19,7 @@ In this repository are two arms and their respective supporting documention, des
 
 KSU 1 is comprised of:
 
-Julien Illo, Sam Boselli, Talon Hanssen, Paige Durand, Jonathan Perez 
+Julien Illo, Sam Boselli, Talon Hanssen, Paige Durand, Jonathan Perez, Michael Arnold 
 
 KSU 2 is comprised of:
 
